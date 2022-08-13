@@ -1,0 +1,1 @@
+This Project is an ASP.NET WebForms application that can connect to google drive and import the data from a spreadsheet to a table in a SQL Server Database, and populate the data imported to KendoGrid ( Telerik ).
